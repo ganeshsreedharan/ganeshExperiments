@@ -10,9 +10,6 @@ public class KthLargest {
     }
 }
 
-
-
-
 class Quickselect {
 
     private int[] nums;
